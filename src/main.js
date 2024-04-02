@@ -3,7 +3,9 @@ import App from './App.vue'
 import Antd from 'ant-design-vue';
 import { message } from 'ant-design-vue';
 import 'ant-design-vue/dist/antd.css';
+import service from '@/services'
 
+console.log(service,'xxx');
 
 const app = createApp(App);
 app.config.productionTip = false;

@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "ant-design-vue": "^3.2.20",
-    "vue": "^3.2.25"
+    "axios": "^1.6.8",
+    "mitt": "^3.0.1",
+    "vue": "^3.2.25",
+    "vue-router": "^4.3.0",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.4",
